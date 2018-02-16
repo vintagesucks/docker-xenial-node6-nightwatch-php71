@@ -1,0 +1,5 @@
+services:
+  - docker
+
+script:
+  - docker build -t docker-xenial-node6-nightwatch-php71 -f Dockerfile .
