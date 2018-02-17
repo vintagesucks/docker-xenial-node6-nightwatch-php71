@@ -22,6 +22,7 @@ RUN apt-get -y install \
   libxss1 \
   libappindicator1 \
   libindicator7 \
+  git \
   zip \
   unzip \
   wget
