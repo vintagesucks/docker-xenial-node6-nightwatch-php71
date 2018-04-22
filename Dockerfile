@@ -41,6 +41,7 @@ RUN apt-get -y install \
   php7.1-curl \
   php7.1-simplexml \
   php7.1-gd \
+  php7.1-zip \
   php7.1-mysql
 
 # install Composer
